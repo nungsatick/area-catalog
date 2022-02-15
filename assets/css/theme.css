@@ -10227,7 +10227,6 @@ a.text-link:hover {
   border-radius: 4px;
   -webkit-transform: skew(25deg, -10deg);
   transform: skew(25deg, -10deg);
-  moz-transform-origin: top left;
   -webkit-transform-origin: top left;
   transform-origin: top left;
 }
@@ -10242,7 +10241,6 @@ a.text-link:hover {
   border-radius: 6px;
   -webkit-transform: skew(25deg, 10deg);
   transform: skew(25deg, 10deg);
-  moz-transform-origin: top left;
   -webkit-transform-origin: top left;
   transform-origin: top left;
 }
@@ -10265,7 +10263,6 @@ a.text-link:hover {
   border-radius: 6px;
   -webkit-transform: skew(25deg, -12deg);
   transform: skew(25deg, -12deg);
-  moz-transform-origin: top left;
   -webkit-transform-origin: top left;
   transform-origin: top left;
 }
@@ -10280,7 +10277,6 @@ a.text-link:hover {
   border-radius: 4px;
   -webkit-transform: skew(-25deg, 10deg);
   transform: skew(-25deg, 10deg);
-  moz-transform-origin: top left;
   -webkit-transform-origin: top left;
   transform-origin: top left;
 }
@@ -10610,7 +10606,7 @@ a.text-link:hover {
   padding: 2rem;
   color: #5d6778;
   scroll-margin-top: 69px;
-  scroll-snap-margin-top: 69px;
+
 }
 .docs-article strong {
   color: #252930;
@@ -10633,7 +10629,7 @@ a.text-link:hover {
   padding: 2rem 0;
   border-bottom: 1px solid #e7e9ed;
   scroll-margin-top: 69px;
-  scroll-snap-margin-top: 69px;
+
 }
 .docs-article .docs-section p:last-child {
   margin-bottom: 0;
