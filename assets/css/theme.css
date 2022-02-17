@@ -10311,7 +10311,7 @@ a.text-link:hover {
 
 .page-content-img{
   background-image: url("https://gdcatalog.go.th/assets/images/background/bg-map.png");
-  background-color: #000;
+  /* background-color: #fff; */
   /* background-size: auto 800px; */
   background-size: cover;
 }
@@ -10321,9 +10321,9 @@ a.text-link:hover {
 }
 .page-header.theme-bg-dark .page-intro {
   color: #fff;
-  -webkit-opacity: 0.8;
-  -moz-opacity: 0.8;
-  opacity: 0.8;
+  -webkit-opacity: 0.9;
+  -moz-opacity: 0.9;
+  opacity: 0.9;
 }
 .social-list li {
   font-size: 1.125rem;
