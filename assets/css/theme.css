@@ -10626,7 +10626,7 @@ a.text-link:hover {
   color: #747f94;
 }
 .docs-article .docs-section {
-  padding: 2rem 0;
+  padding: 2rem 0rem 2rem 2rem;
   border-bottom: 1px solid #e7e9ed;
   scroll-margin-top: 69px;
 
