@@ -10603,7 +10603,7 @@ a.text-link:hover {
   padding-bottom: 500px;
 }
 .docs-article {
-  padding: 2rem;
+  padding: 1rem 1rem 1rem 1rem;
   color: #5d6778;
   scroll-margin-top: 69px;
 
