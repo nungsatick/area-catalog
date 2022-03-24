@@ -10314,6 +10314,7 @@ a.text-link:hover {
   /* background-color: #fff; */
   /* background-size: auto 800px; */
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .page-header.theme-bg-dark .page-heading {
