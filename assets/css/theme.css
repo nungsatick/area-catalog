@@ -10811,3 +10811,7 @@ color: #1c1f24;
 max-height: 100px;
 opacity: 0.8;
 }
+
+tr > th, td a {
+  font-size: 15px;
+}
